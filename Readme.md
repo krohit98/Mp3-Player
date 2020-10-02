@@ -14,6 +14,7 @@ This is a simple mp3 player application built in python3 using the following pyt
 4)<b>stagger</b> - Extracts the metadata of the mp3 files.  
 5)<b>PIL</b> - Extracts image data.  
 It also uses an sqlite3 database to store the info about the mp3 files.  
+To view working demo of the project, download demo.mp4.  
 
 <b><ins>REQUIREMENTS TO USE THE PLAYER</ins></b>
 
